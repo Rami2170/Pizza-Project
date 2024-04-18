@@ -1,4 +1,4 @@
-Welcome to Pizza Project
+Welcome to Pizza Project,
 The goal of this assignment was to create a resturant-feel user-interface that would allow for easy access to pizza options, or a admin base
 The group was comitted to achiving the goals of the customer and deliver a proper program
 If you have any questions about this program, please email the boss and customer
